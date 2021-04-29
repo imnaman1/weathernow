@@ -1,6 +1,6 @@
 # weather_now
 
-A new Flutter application.
+A Dribbble inspired weather app using OpenWeatherMap Api.
 
 ## Getting Started
 
